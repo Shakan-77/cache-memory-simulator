@@ -1,0 +1,13 @@
+For the following cache specs:
+Cache Size (Bytes): 64
+Block Size (Bytes): 8
+Associativity: 2
+Write Policy (write-back/write-through): 0
+Replacement (0=RANDOM,1=LRU,2=LIFO): 1
+
+OUTPUT for the sample_input:
+Cache Size (Bytes): 64
+Block Size (Bytes): 8
+Associativity: 2
+Write Policy (write-back/write-through): 0
+Replacement (0=RANDOM,1=LRU,2=LIFO): 1
